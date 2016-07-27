@@ -6,7 +6,7 @@ This project is a proof-of-concept for the purpose of testing if CINT can be int
 ----------
 
 
-Synchronization
+Use Cases –
 -------------------
 > - Dump of data structures  
 > - Runtime debugging of process 
